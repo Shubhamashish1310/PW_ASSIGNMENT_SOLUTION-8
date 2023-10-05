@@ -1,0 +1,3 @@
+# TASK 1 OUTPUT IMAGE 
+
+![POSITIONG](image.png)

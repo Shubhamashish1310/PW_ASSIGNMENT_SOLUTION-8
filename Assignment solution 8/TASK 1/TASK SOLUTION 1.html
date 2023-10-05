@@ -1,0 +1,103 @@
+<!-- Task 1:  
+Problem Statement 
+Write code to position 5 equal-sized (50 X 50px) boxes A, B, C, D, and E as follows,
+1. box A 200px from the left, and 200px from the top of the viewport.
+2. box B -30px left, and -30px above from the center of box AH
+3. box B -30px right, and -30px above from the center of box AH
+4. box B -30px left, and -30px below from the center of box AH
+5. box B -30px right, and -30px below from the center of box A.  
+ -->
+
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Positions</title>
+    <style>
+        body{
+            background-color: rgb(255, 235, 211);
+        }
+       
+        
+        
+         .boxA{
+            border: 2px solid black;
+            
+            height: 50px;
+            width: 50px;
+            background-color: #5efedb;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+            left: 200px;
+            top: 200px;
+        } 
+         .boxB{
+            border: 2px solid black;
+            
+            height: 50px;
+            width: 50px;
+            background-color: #5efedb;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+            left: 170px;
+            top: 170px;
+            
+        } 
+         .boxC{
+            border: 2px solid black;
+           
+            height: 50px;
+            width: 50px;
+            background-color: #5efedb;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+            left: 230px;
+            top: 170px;
+            
+        } 
+         .boxD{
+            border: 2px solid black;
+           
+            height: 50px;
+            width: 50px;
+            background-color: #5efedb;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+            left: 170px;
+            top: 230px;
+            
+        } 
+        .boxE{
+            border: 2px solid black;
+            height: 50px;
+            width: 50px;
+            background-color: #5efedb;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+            left: 230px;
+            top: 230px;
+        }
+          
+    </style>
+ </head>
+ <body>
+    <div class="box">
+        <div class="boxA">A</div>
+        <div class="boxB">B</div>
+        <div class="boxC">C</div>
+        <div class="boxD">D</div>
+        <div class="boxE">E</div>
+    </div>
+ </body>
+ </html>
