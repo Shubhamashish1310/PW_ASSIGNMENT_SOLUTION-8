@@ -1,0 +1,343 @@
+#IRCTC{
+    
+    display: flex;
+width: 1469px;
+padding: 0px 4px 43px 5px;
+justify-content: center;
+align-items: center;
+}
+
+#home{
+    width: 1460px;
+height: 1100px;
+flex-shrink: 0;
+background: #FFF;
+}
+
+.rect2{
+    margin: 50px 0px 60px 50px;
+    width: 700px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 168.306px;
+    height: 81.111px;
+    flex-shrink: 0; 
+}
+
+.menu{
+    width: 321.806px;
+height: 81.875px;
+flex-shrink: 0;
+}
+
+.frame-5{
+    margin: 0px 0px 15px 70px;
+    display: inline-flex;
+align-items: flex-start;
+gap: 25.347px;
+}
+
+.group4{
+    width: 72px;
+    height: 18px;
+    color: var(--333333, #333);
+text-align: center;
+font-family: Inter;
+font-size: 15.208px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.group4{
+    width: 80px;
+    height: 18px;
+    color: var(--333333, #333);
+text-align: center;
+font-family: Inter;
+font-size: 15.208px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.group4{
+    width: 44px;
+    height: 18px;
+    color: var(--333333, #333);
+text-align: center;
+font-family: Inter;
+font-size: 15.208px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+
+
+.frame-6{
+    display: inline-flex;
+align-items: flex-start;
+gap: 20.278px;
+}
+
+.frame1{
+    display: flex;
+padding: 10.139px 15.208px;
+justify-content: center;
+align-items: center;
+gap: 10.139px;
+border-radius: 5.069px;
+background: var(--FB792B, #FB792B);
+color: var(--FFFFFF, #FFF);
+font-family: Inter;
+font-size: 15.208px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.frame2{
+    display: flex;
+padding: 10.139px 15.208px;
+justify-content: center;
+align-items: center;
+gap: 10.139px;
+border-radius: 5.069px;
+border: 1.014px solid rgba(51, 51, 51, 0.20);
+background: var(--FFFFFF, #FFF);
+color: var(--333333, #333);
+font-family: Inter;
+font-size: 15.208px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.frame3{
+    display: flex;
+padding: 10.139px 5px;
+justify-content: center;
+align-items: center;
+gap: 10.139px;
+border-radius: 5.069px;
+border: 1.014px solid rgba(51, 51, 51, 0.20);
+background: var(--FFFFFF, #FFF);
+color: var(--333333, #333);
+font-family: Inter;
+font-size: 15.208px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.header{
+    margin: 0px 0px 60px 50px;
+    width: 438px;
+height: 118.083px;
+flex-shrink: 0;
+}
+
+.txt1{
+   
+    color: var(--333333, #333);
+font-family: Inter;
+font-size: 48.667px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.txt2 span:nth-child(1){
+    padding-right: 8px;
+    color: var(--01BB0A, #01BB0A);
+    font-family: Inter;
+    font-size: 32.444px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.txt2 span:nth-child(2){
+    padding-right: 8px;
+    color: var(--FB792B, #FB792B);
+    font-family: Inter;
+    font-size: 32.444px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.txt2 span:nth-child(3){
+    
+    color: var(--213D77, #213D77);
+    font-family: Inter;
+    font-size: 32.444px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.sub-nutton{
+    margin: 0px 0px 35px 50px;
+    display: inline-flex;
+align-items: flex-start;
+gap: 20.278px;
+}
+
+.frame-1{
+    display: flex;
+padding: 10.139px 15.208px;
+justify-content: center;
+align-items: center;
+gap: 10.139px;
+border-radius: 5.069px;
+background: var(--213D77, #213D77);
+}
+
+.frame-2{
+    display: flex;
+padding: 10.139px 15.208px;
+justify-content: center;
+align-items: center;
+gap: 10.139px;
+border-radius: 5.069px;
+border: 1.014px solid rgba(51, 51, 51, 0.50);
+background: var(--FFFFFF, #FFF);
+}
+
+.frame-3{
+    display: flex;
+padding: 10.139px 15.208px;
+justify-content: center;
+align-items: center;
+gap: 10.139px;
+border-radius: 5.069px;
+border: 1.014px solid rgba(51, 51, 51, 0.50);
+background: var(--FFFFFF, #FFF);
+}
+
+.search-train{
+    margin: 0px 0px 20px 50px;
+    width: 618.472px;
+height: 116.597px;
+flex-shrink: 0;
+}
+
+.rectangle-7{
+    width: 618.472px;
+height: 116.597px;
+flex-shrink: 0;
+border-radius: 10.139px;
+border: 1.014px solid rgba(51, 51, 51, 0.10);
+background: var(--FFFFFF, #FFF);
+}
+
+.rect3{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.rect0{
+    margin-top: 11px;
+    flex-wrap: wrap;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.from{
+    display: flex;
+    align-items: center;
+    color: var(--333333, #333);
+font-family: Inter;
+font-size: 15.208px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+opacity: 0.8;
+
+
+}
+
+
+
+
+
+.to{
+    display: flex;
+    align-items: center;
+color: var(--333333, #333);
+font-family: Inter;
+font-size: 15.208px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+opacity: 0.8;
+}
+
+
+
+.bangalore{
+    display: flex;
+    color: var(--333333, #333);
+font-family: Inter;
+font-size: 25.347px;
+font-style: normal;
+font-weight: 700;
+
+text-transform: capitalize;
+}
+
+.kasaragod{
+    display: flex;
+    color: var(--333333, #333);
+font-family: Inter;
+font-size: 25.347px;
+font-style: normal;
+font-weight: 700;
+
+text-transform: capitalize;
+}
+
+.search-button{
+    width: 618.472px;
+height: 81.111px;
+flex-shrink: 0;
+}
+
+.rectangle-9{
+    margin: 35px 0px 0px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 35px opx opx 50px;
+    width: 618.472px;
+height: 81.111px;
+flex-shrink: 0;
+border-radius: 10.139px;
+background: var(--01BB0A, #01BB0A);
+}
+
+.group9{
+    width: 210.889px;
+height: 31px;
+flex-shrink: 0;
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 25.347px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+
+
+
